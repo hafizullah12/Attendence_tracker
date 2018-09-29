@@ -1,9 +1,5 @@
-<p align="center">Attendance Management System</p>
+<p align="center">Attendance Tracker System</p>
 
 ## About
 
-This is a simple web application form management of attendance in colleges, with CRUD operations for the following:
-
-- Students.
-- Departments.
-- Attendance.
+This is a simple web application for student's Attendence Tracker.It is developed by laravel.
