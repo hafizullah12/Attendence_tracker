@@ -12,11 +12,11 @@ In Faculty section,</br>
    <b><b>Faculty can registered by his unique id.</br>
    Faculty log on the system by given id and password.</br>
    Facuty can take attendence on the basis of students who present in the class or not.</br>
-   Faculty can Add,Delete,Edit as following module.
-      **Batch</br>
-      **Course </br>
-      **Students </br>
-      **Attendence </br>
+   Faculty can Add,Delete,Edit as following module.</br>
+      ** Batch</br>
+      ** Course </br>
+      ** Students </br>
+      ** Attendence </br>
       
  In Student Section, </br>
   **Student can log on by his birth date and register number. 
