@@ -1,4 +1,4 @@
-<p align="center">Attendance Tracker System</p>
+<h1 align="center">Attendance Tracker System</h1>
 
 ## About
 
