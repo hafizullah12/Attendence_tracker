@@ -9,6 +9,7 @@ This is a simple web application for student's Attendence Tracker.It is develope
 2.Faculty Section <br>
 
 In Faculty section,</br>
+
    <b><b>Faculty can registered by his unique id.</br>
    Faculty log on the system by given id and password.</br>
    Facuty can take attendence on the basis of students who present in the class or not.</br>
@@ -17,7 +18,8 @@ In Faculty section,</br>
       ** Course </br>
       ** Students </br>
       ** Attendence </br>
-      
- <p>In Student Section</p></br>
+     
+     
+ <p>In Student Section</p>
   <b>Student can log on by his birth date and register number. </br>
   student can see his/her own attendence</br>
