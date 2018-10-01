@@ -3,3 +3,7 @@
 ## About
 
 This is a simple web application for student's Attendence Tracker.It is developed by laravel.
+
+##Feature 
+1.Student Section
+2.Faculty Section
