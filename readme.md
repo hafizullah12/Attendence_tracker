@@ -18,6 +18,6 @@ In Faculty section,</br>
       ** Students </br>
       ** Attendence </br>
       
- In Student Section, </br>
-  **Student can log on by his birth date and register number. 
-  **student can see his/her own attendence
+ <p>In Student Section</p></br>
+  <b>Student can log on by his birth date and register number. </br>
+  student can see his/her own attendence</br>
